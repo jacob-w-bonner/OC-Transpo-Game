@@ -31,6 +31,8 @@ const glm::vec3 viewport_background_color_g(0.0, 0.0, 1.0);
 // Directory with game resources such as textures
 const std::string resources_directory_g = RESOURCES_DIRECTORY;
 
+int testVar = 0;
+
 
 Game::Game(void)
 {
